@@ -1,5 +1,6 @@
 # Learning Git and GitHub: 
   Software carpentry WS by Jake Lever (BioEngineering Post-Doc)
+  creating 1st Git repository ("repo")
   
 test project name: **dermacentor-test**
 
