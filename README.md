@@ -1,4 +1,5 @@
-# Learning Git and GitHub: 
+
+ # Learning Git and GitHub: 
   Software carpentry WS by Jake Lever (BioEngineering Post-Doc)
   creating 1st Git repository ("repo")
   
@@ -10,3 +11,5 @@ test project name: **dermacentor-test**
 how to use readme: 
   overview of project
   instructions for someone who wants to get started using your data (plus jogging your own memory 1 year from now!)
+
+creating a conflict - test
