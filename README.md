@@ -11,5 +11,7 @@ test project name: **dermacentor-test**
 how to use readme: 
   overview of project
   instructions for someone who wants to get started using your data (plus jogging your own memory 1 year from now!)
-
-creating a conflict - test
+<<<<<<< HEAD
+  
+  practice: create a conflict
+>>>>>>> 2df25d9aab2b81f3b25560fd843a6e41ebfb51dc
